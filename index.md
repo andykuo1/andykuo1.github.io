@@ -8,4 +8,5 @@ I should say something here, but I'll just direct you to my projects. :3
 * [flap.js](https://flapjs.github.io/FLAPJS-WebApp/) - A React-based FSA builder tool for UCSD
 * [flapjs (original)](https://andykuo1.github.io/flapjs) - A finite automata graph editor and solver
 * [bool-min](https://andykuo1.github.io/bool-min) - A Quine-McCluskey calculator
+* [satchel](https://andykuo1.github.io/satchel) - A peerful, grid-based item stash
 * More coming soon!
