@@ -1,12 +1,11 @@
-## Welcome to Andrew's Workspace
+A wise man once said to hook your audience... but I'll just direct you to my projects instead :3
 
-I should say something here, but I'll just direct you to my projects. :3
-
-# Projects:
-* [emberwick](https://andykuo1.github.io/emberwick) - A 2D/3D browser-based game engine using WebGL
-* [draftstone](https://andykuo1.github.io/draftstone) - A browser-based dungeon builder
+# Curios
+* [satchel](https://andykuo1.github.io/satchel) - A peerful, grid-based inventory playground
 * [flap.js](https://flapjs.github.io/FLAPJS-WebApp/) - A React-based FSA builder tool for UCSD
-* [flapjs (original)](https://andykuo1.github.io/flapjs) - A finite automata graph editor and solver
+* [flap.js (prototype)](https://andykuo1.github.io/flapjs) - A finite automata graph editor and solver
+
+# Artefacts
+* [milque.js](https://andykuo1.github.io/milque/) - A fast, prototyping WebGL game engine
+* [cuttle.js](https://github.com/andykuo1/cuttle) - A zero-cost abstraction library for WebComponent boilerplate
 * [bool-min](https://andykuo1.github.io/bool-min) - A Quine-McCluskey calculator
-* [satchel](https://andykuo1.github.io/satchel) - A peerful, grid-based item stash
-* More coming soon!
