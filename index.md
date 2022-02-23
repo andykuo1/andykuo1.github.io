@@ -1,4 +1,4 @@
-A wise man would hook the audience, but I'll direct you to my projects instead :3
+Without further ado, here are my projects :3
 
 # Curios
 * [satchel](https://andykuo1.github.io/satchel) - A peerful, grid-based inventory playground
