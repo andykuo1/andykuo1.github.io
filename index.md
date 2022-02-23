@@ -8,7 +8,9 @@ A wise man would hook the audience, but I'll direct you to my projects instead :
 # Artefacts
 * [milque.js](https://andykuo1.github.io/milque/) - A fast, prototyping WebGL game engine
 * [cuttle.js](https://github.com/andykuo1/cuttle) - A zero-cost abstraction library for WebComponent boilerplate
+* [item-card](https://github.com/andykuo1/item-card) - A fantasy item card HTML generator in Node.js
 * [bool-min](https://andykuo1.github.io/bool-min) - A Quine-McCluskey calculator
+* [candlelight](https://github.com/andykuo1/candlelight) - A 2D/3D Java OpenGL game engine built from scratch
 
 # Stories
 * [story](https://andykuo1.github.io/story) - A collection of short stories
