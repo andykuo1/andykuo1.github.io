@@ -1,4 +1,4 @@
-A wise man once said to hook your audience... but I'll just direct you to my projects instead :3
+A wise man would hook the audience, but I'll direct you to my projects instead :3
 
 # Curios
 * [satchel](https://andykuo1.github.io/satchel) - A peerful, grid-based inventory playground
@@ -9,3 +9,6 @@ A wise man once said to hook your audience... but I'll just direct you to my pro
 * [milque.js](https://andykuo1.github.io/milque/) - A fast, prototyping WebGL game engine
 * [cuttle.js](https://github.com/andykuo1/cuttle) - A zero-cost abstraction library for WebComponent boilerplate
 * [bool-min](https://andykuo1.github.io/bool-min) - A Quine-McCluskey calculator
+
+# Stories
+* [story](https://andykuo1.github.io/story) - A collection of short stories
