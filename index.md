@@ -1,9 +1,7 @@
 Without further ado, here are my projects :3
 
 # Curios
-* [satchel](https://andykuo1.github.io/satchel) - A peerful, grid-based inventory playground
 * [flap.js](https://flapjs.github.io/FLAPJS-WebApp/) - A React-based FSA builder tool for UCSD
-* [flap.js (prototype)](https://andykuo1.github.io/flapjs) - A finite automata graph editor and solver
 * [milque.js](https://andykuo1.github.io/milque/) - A fast, prototyping WebGL game engine (and demos!)
 
 # Artefacts
@@ -11,6 +9,10 @@ Without further ado, here are my projects :3
 * [item-card](https://github.com/andykuo1/item-card) - A fantasy item card HTML generator in Node.js
 * [bool-min](https://andykuo1.github.io/bool-min) - A Quine-McCluskey calculator
 * [candlelight](https://github.com/andykuo1/candlelight) - A 2D/3D Java OpenGL game engine built from scratch
+
+# Prototypes
+* [flap.js (prototype)](https://andykuo1.github.io/flapjs-prototype) - A finite automata graph editor and solver
+* [satchel (prototype)](https://andykuo1.github.io/satchel-prototype/) - A peerful, grid-based inventory playground
 
 # Stories
 * [story](https://andykuo1.github.io/story) - A collection of short stories
