@@ -2,7 +2,7 @@ Without further ado, here are my projects :3
 
 # Curios
 * [flap.js](https://flapjs.github.io/FLAPJS-WebApp/) - A React-based FSA builder tool for UCSD
-* [milque.js](https://andykuo1.github.io/milque/) - A fast, prototyping WebGL game engine (and demos!)
+* [milque.js](https://milquejs.github.io/milque/) - A fast, prototyping WebGL game engine (and demos!)
 
 # Artefacts
 * [cuttle.js](https://github.com/andykuo1/cuttle) - A zero-cost abstraction library for WebComponent boilerplate
