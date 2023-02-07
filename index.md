@@ -1,5 +1,7 @@
 Without further ado, here are my projects :3
 
+NEW: I started a [blog](https://depthsofablackhole.wordpress.com/) :3
+
 # Curios
 * [flap.js](https://flapjs.github.io/FLAPJS-WebApp/) - A React-based FSA builder tool for UCSD
 * [milque.js](https://milquejs.github.io/milque/) - A fast, prototyping WebGL game engine (and demos!)
