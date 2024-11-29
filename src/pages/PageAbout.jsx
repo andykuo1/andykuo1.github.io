@@ -1,12 +1,13 @@
-import { Router } from '../Router';
-import { Link } from '@swan-io/chicane';
+import { HeaderBar } from '@/components/HeaderBar';
 
 export function PageAbout() {
-  return <>
-  <h2>ABOUT</h2>
-  <nav>
-    <Link to={Router.Home()}>HOME</Link>
-    <Link to={Router.About()}>ABOUT</Link>
-  </nav>
-  </>;
+  return (
+    <div className="h-screen w-screen overflow-y-auto">
+      <div className="mx-auto max-w-[70rem]">
+        <HeaderBar className="sticky left-0 right-0 top-0">
+          <h2>ABOUT</h2>
+        </HeaderBar>
+      </div>
+    </div>
+  );
 }

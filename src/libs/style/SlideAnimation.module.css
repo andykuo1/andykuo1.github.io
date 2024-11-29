@@ -1,0 +1,14 @@
+.animateSlideInBottom {
+  animation: slidein-bottom 1s ease both;
+}
+
+@keyframes slidein-bottom {
+  0% {
+    transform: translate(0, 3rem);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+}
