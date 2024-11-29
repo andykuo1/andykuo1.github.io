@@ -9,7 +9,8 @@ export const Router = createRouter(
     About: '/about',
   },
   {
-    basePath: `/${import.meta.env.BASE_URL}`,
+    // NOTE: Usually it is this: `/${import.meta.env.BASE_URL}`, but this is the base repo.
+    basePath: '/',
   }
 );
 
