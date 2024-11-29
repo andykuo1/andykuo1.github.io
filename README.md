@@ -1,6 +1,7 @@
 # A place called home for Andrew
 
 ## Developer Setup
+
 1. https://vitejs.dev/guide/
 2. https://tailwindcss.com/docs/guides/vite
 3. https://prettier.io/docs/en/install
@@ -11,5 +12,4 @@
 8. https://github.com/pmndrs/zustand
 9. https://github.com/swan-io/chicane
 10. https://github.com/gvergnaud/ts-pattern
-11. https://github.com/uidotdev/usehooks
-12. https://lucide.dev/icons
+11. https://lucide.dev/icons
