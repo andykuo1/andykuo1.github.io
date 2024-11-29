@@ -10,6 +10,7 @@
 6. https://github.com/tailwindlabs/prettier-plugin-tailwindcss
 7. https://github.com/lukeed/clsx
 8. https://github.com/pmndrs/zustand
-9. https://github.com/swan-io/chicane
-10. https://github.com/gvergnaud/ts-pattern
-11. https://lucide.dev/icons
+9. https://immerjs.github.io/immer/installation
+10. https://github.com/swan-io/chicane
+12. https://github.com/gvergnaud/ts-pattern
+13. https://lucide.dev/icons
